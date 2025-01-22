@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathanielPeyer
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning C, some other lanugages and electrical engineering
+- 🌱 I’m currently working on a VAM 3d printer slicer
 - 💞️ I’m looking to collaborate on things.
 - 📫 How to reach me @ nate.peyer@valpo.edu
 - 😄 Pronouns: non yo damn business
