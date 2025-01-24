@@ -1,4 +1,4 @@
-contact info: nate.peyer@valpo.edu
+contact info: nate.peyer@valpo.edu                                                                                                                                                                                        
 current project: VAM Slicer ---hopefully integrated into Prusa pr Orca slicer---
 
 <!---
