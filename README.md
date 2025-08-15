@@ -1,5 +1,13 @@
-contact info: nate.peyer@valpo.edu                                                                                                                                                                                        
-current project: VAM Slicer
+Contact info: nate.peyer@valpo.edu       
+Languages:
+  - C
+  - CPP
+  - C#
+  - Python
+  - Java
+  - HTML
+Current projects: VAM Slicer &  VAMToolbox++
+IDE of choice: Visual Studio 2022
 
 <!---
 nathanielPeyer/nathanielPeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
