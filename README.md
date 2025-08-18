@@ -6,6 +6,7 @@ Languages:
   - Python
   - Java
   - HTML
+
 Current projects: VAM Slicer &  VAMToolbox++
 IDE of choice: Visual Studio 2022
 
