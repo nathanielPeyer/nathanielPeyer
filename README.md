@@ -9,6 +9,7 @@ Languages:
 
 Current projects: VAM Slicer &  VAMToolbox++
 IDE of choice: Visual Studio 2022
+Text Editor of Choice: GNU EMACS
 
 <!---
 nathanielPeyer/nathanielPeyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
