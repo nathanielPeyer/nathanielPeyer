@@ -8,7 +8,7 @@ Languages:
   - HTML
 
 Current projects: VAM Slicer &  VAMToolbox++  
-IDE of choice: Visual Studio 2022  
+IDE of choice: Visual Studio 2026  
 Text Editor of Choice: GNU EMACS
 
 <!---
