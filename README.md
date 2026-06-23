@@ -7,7 +7,7 @@ Languages:
   - Java
   - HTML
 
-Current projects: VAM Slicer &  VAMToolbox++  
+Current projects: Reduced Cost Radiosonde
 IDE of choice: Visual Studio 2026  
 Text Editor of Choice: GNU EMACS
 
