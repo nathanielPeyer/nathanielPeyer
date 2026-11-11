@@ -4,8 +4,12 @@ Languages:
   - CPP
   - C#
   - Python
+  - R
   - Java
   - HTML
+  - Mips ASM
+  - AVR ASM
+
 
 Current projects: Reduced Cost Radiosonde
 IDE of choice: Visual Studio 2026  
